@@ -5,3 +5,4 @@ In the face of ambiguity, refuse the temptation to guess.
 # This is a good programming advice 
 print("There sghould be one-- and preferably only one --obvious way to do it.")
 print("Although that way may be not obvious at first unless you're Dutch.")
+print("Namespaces are one honking great idea -- lest's do more of those!")
